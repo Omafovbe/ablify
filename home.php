@@ -112,8 +112,9 @@
 							<form action="#" method="post">
 								<h5 class="mb-3">Create an Account</h5>
 								<div class="form-style-ablify">
-								<input placeholder="Search Location" name="name" type="text" required="">
-					            <input placeholder="Price Range" name="name" type="text" required="">
+								<input placeholder="Name" name="name" type="text" required="">
+                                <input placeholder="Email" name="email" type="text" required="">
+                                <input placeholder="Password" name="pass" type="password" required="">
 									<button Class="btn"> Search</button>
 									
 								</div>
