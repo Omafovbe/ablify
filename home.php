@@ -71,28 +71,27 @@
 							<li>
 								<div class="container-fluid">
 									<div class="w3ls_banner_txt">
-										<h3 class="b-w3ltxt text-capitalize mt-md-4">china</h3>
-										<h4><span class="fa fa-ils" aria-hidden="true"></span>from</h4>
-									<p><span class="fa fa-usd" aria-hidden="true"></span>1000<p>
+										<h6 class="b-w3ltxt text-capitalize mt-md-4">Developer</h6>
+										<h4><span class="fa fa-ils" aria-hidden="true"></span>Community That</h4>
+									<p><span class="fa fa-usd" aria-hidden="true"></span>Defines Us By what we do<p>
 									</div>
 								</div>
 							</li>
 							<li>
-								<div class="container-fluid">
+                            <div class="container-fluid">
 									<div class="w3ls_banner_txt">
-										<h3 class="b-w3ltxt text-capitalize mt-md-4">japan</h3>
-										<h4><span class="fa fa-ils" aria-hidden="true"></span>from </h4>
-									<p><span class="fa fa-usd" aria-hidden="true"></span>1200<p>
-										
+										<h6 class="b-w3ltxt text-capitalize mt-md-4">Developer</h6>
+										<h4><span class="fa fa-ils" aria-hidden="true"></span>Community That</h4>
+									<p><span class="fa fa-usd" aria-hidden="true"></span>Defines Us By what we do<p>
 									</div>
 								</div>
 							</li>
 							<li>
-								<div class="container-fluid">
+                            <div class="container-fluid">
 									<div class="w3ls_banner_txt">
-										<h3 class="b-w3ltxt text-capitalize mt-md-4">korea</h3>
-										<h4><span class="fa fa-ils" aria-hidden="true"></span>from </h4>
-										<p><span class="fa fa-usd" aria-hidden="true"></span>1400<p>
+										<h6 class="b-w3ltxt text-capitalize mt-md-4">Developer</h6>
+										<h4><span class="fa fa-ils" aria-hidden="true"></span>Community That</h4>
+									<p><span class="fa fa-usd" aria-hidden="true"></span>Defines Us By what we do<p>
 									</div>
 								</div>
 							</li>
@@ -111,7 +110,7 @@
 					<div class="banner-form-w3 ml-lg-5">
 						<div class="padding">
 							<form action="#" method="post">
-								<h5 class="mb-3">Search Our Tours</h5>
+								<h5 class="mb-3">Create an Account</h5>
 								<div class="form-style-ablify">
 								<input placeholder="Search Location" name="name" type="text" required="">
 					            <input placeholder="Price Range" name="name" type="text" required="">
