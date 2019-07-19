@@ -115,6 +115,7 @@
 								<input placeholder="Name" name="name" type="text" required="">
                                 <input placeholder="Email" name="email" type="text" required="">
                                 <input placeholder="Password" name="pass" type="password" required="">
+                                <input placeholder="Confirm Password" name="pass" type="password" required="">
 									<button Class="btn"> Search</button>
 									
 								</div>
@@ -534,7 +535,7 @@
 <!-- //Contact -->
    <!-- map -->	
 <div class="map p-2">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d158857.728106568!2d-0.24168153701090248!3d51.52877184090542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a00baf21de75%3A0x52963a5addd52a99!2sLondon%2C+UK!5e0!3m2!1sen!2sin!4v1544074523717"></iframe>
+	<iframe src=""></iframe>
 </div>
 <!-- //map -->
 
@@ -547,7 +548,7 @@
             <div class="footer-top text-center">
                 <h2>
                     <a class="navbar-brand pt-3 mb-3" href="index.html">
-                        <span class="fa fa-free-code-camp"></span> Trip spot
+                        <span class="fa fa-free-code-camp"></span> Ablify
                     </a>
                 </h2>
             </div>
@@ -678,7 +679,7 @@
     <!-- //footer -->
    <!-- copyright -->
 <div class="copy-right-top">
-	<p class="copy-right text-center py-4">&copy; 2019 Trip Spot. All Rights Reserved | Design by
+	<p class="copy-right text-center py-4">&copy; 2019 Ablify. All Rights Reserved | Design by
 		<a href="http://ablify.com/"> ablify </a>
 	</p>
 </div>
