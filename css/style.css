@@ -1,6 +1,6 @@
 /*--
-Author: W3layouts
-Author URL: http://w3layouts.com
+Author: ablify
+Author URL: http://ablify.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
@@ -502,7 +502,7 @@ h4.b-w3ltxt {
     margin-left: 5px;
 }
 
-.form-style-w3layout input[type="text"], .form-style-w3layout input[type="email"], .form-style-w3layout input[type="password"],select {
+.form-style-ablify input[type="text"], .form-style-ablify input[type="email"], .form-style-ablify input[type="password"],select {
     outline: none;
     font-size: 14px;
     border: none;
@@ -514,7 +514,7 @@ h4.b-w3ltxt {
     box-sizing: border-box;
     margin-bottom: 15px;
 }
-.form-style-w3layout button.btn {
+.form-style-ablify button.btn {
     color: #fff;
     background: #f4b200;
     border: none;
@@ -531,7 +531,7 @@ h4.b-w3ltxt {
     -ms-transition: 0.5s all;
     transition: 0.5s all;
 }
-.form-style-w3layout input[type="submit"]:hover {
+.form-style-ablify input[type="submit"]:hover {
     background: #dc3545;
 }
 .padding {
@@ -547,11 +547,11 @@ h4.b-w3ltxt {
     line-height: 1.2;
     text-align: center;
 }
-.form-style-w3layout span {
+.form-style-ablify span {
     font-size: 13px;
     color: #666;
 }
-.form-style-w3layout span a {
+.form-style-ablify span a {
     color: #ff4f81;
 }
 .w3ls_banner_txt h4 {
@@ -938,12 +938,12 @@ section#gallery {
     width: 15%;
 }
 
-.w3layouts-footer.test-soc ul li {
+.ablify-footer.test-soc ul li {
     display: inline-block;
     margin: 0 0.3em;
 }
 
-.w3layouts-footer.test-soc ul li a span {
+.ablify-footer.test-soc ul li a span {
     color: #fff;
     margin: 0 0.5em;
     padding: 2em 4em;
@@ -962,18 +962,18 @@ section#gallery {
     color: #d3d1d3;
 }
 
-ul.w3layouts-icons.clients li {
+ul.ablify-icons.clients li {
     text-align: center;
     display: inline-block;
 }
 
-ul.w3layouts-icons.clients li a span {
+ul.ablify-icons.clients li a span {
     color: #ffffff;
     font-size: 0.7em;
     margin: 0 0.1em;
 }
 
-ul.w3layouts-icons.clients li span:hover {
+ul.ablify-icons.clients li span:hover {
     color: #39d6af;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
@@ -1561,7 +1561,7 @@ h3.heading {
 	.padding {
     padding: 1em;
 }
-.form-style-w3layout input[type="text"], .form-style-w3layout input[type="email"], .form-style-w3layout input[type="password"], select {
+.form-style-ablify input[type="text"], .form-style-ablify input[type="email"], .form-style-ablify input[type="password"], select {
     width: 100%;
 }
 .read-more-button {
