@@ -71,7 +71,7 @@
 							<li>
                             <div class="container-fluid">
 									<div class="w3ls_banner_txt">
-										<h3 class="b-w3ltxt text-capitalize mt-md-4">Developer</h3>
+										<h3 class="b-w3ltxt text-capitalize mt-md-4">Developers</h3>
 										<h4>Community That</h4>
 									<p>Defines Us By what we do<p>
 									</div>
@@ -80,7 +80,7 @@
 							<li>
                             <div class="container-fluid">
 									<div class="w3ls_banner_txt">
-										<h3 class="b-w3ltxt text-capitalize mt-md-4">Developer</h3>
+										<h3 class="b-w3ltxt text-capitalize mt-md-4">Developers</h3>
 										<h4>Community That</h4>
 									<p>Defines Us By what we do<p>
 									</div>
@@ -89,7 +89,7 @@
 							<li>
                             <div class="container-fluid">
 									<div class="w3ls_banner_txt">
-										<h3 class="b-w3ltxt text-capitalize mt-md-4">Developer</h3>
+										<h3 class="b-w3ltxt text-capitalize mt-md-4">Developers</h3>
 										<h4>Community That</h4>
 									<p>Defines Us By what we do<p>
 									</div>
@@ -116,7 +116,7 @@
                                 <input placeholder="Email" name="email" type="text" required="">
                                 <input placeholder="Password" name="pass" type="password" required="">
                                 <input placeholder="Confirm Password" name="pass" type="password" required="">
-									<button Class="btn"> Search</button>
+									<button Class="btn"> Create Account</button>
 									
 								</div>
 							</form>
@@ -133,7 +133,7 @@
         <div class="container py-md-5">
             <div class="row about-vv-top mt-2">
                 <div class="col-lg-6 about-info">
-                    <h4 class="title-hny  mb-md-5">Winter Wonders and Delicious Detours</h4>
+                    <h4 class="title-hny  mb-md-5">About Ablify</h4>
                     <p>Donec malesuada ex sit amet pretium sid ornare. Nulla congue scelerisque tellus, utpretium nulla malesuada sedint. Suspendisse venenatis,Lorem ipsum dolor sit magna dolor.</p>
                     <div class="read-more-button mt-4">
                         <a href="index.html" class="read-more btn">Read More </a>
