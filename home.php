@@ -114,6 +114,7 @@
 								<div class="form-style-ablify">
 								<input placeholder="Name" name="name" type="text" required="">
                                 <input placeholder="Email" name="email" type="text" required="">
+                                <input placeholder="Repository URL" name="repo" type="text" required="">
                                 <input placeholder="Password" name="pass" type="password" required="">
                                 <input placeholder="Confirm Password" name="pass" type="password" required="">
 									<button Class="btn"> Create Account</button>
