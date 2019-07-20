@@ -38,7 +38,7 @@
 		<!-- nav -->
 		<nav class="py-3 d-lg-flex">
 			<div id="logo">
-				<h1> <a href="index.html">Ablify</a></h1>
+				<h1> <a href="home.php">Ablify</a></h1>
 			</div>
 			<label for="drop" class="toggle"><span class="fa fa-bars"></span></label>
 			<input type="checkbox" id="drop" />
@@ -136,7 +136,7 @@
                     <h4 class="title-hny  mb-md-5">About Ablify</h4>
                     <p>Donec malesuada ex sit amet pretium sid ornare. Nulla congue scelerisque tellus, utpretium nulla malesuada sedint. Suspendisse venenatis,Lorem ipsum dolor sit magna dolor.</p>
                     <div class="read-more-button mt-4">
-                        <a href="index.html" class="read-more btn">Read More </a>
+                        <a href="#" class="read-more btn">Read More </a>
                     </div>
 
                 </div>
@@ -547,7 +547,7 @@
         <div class="container py-md-3">
             <div class="footer-top text-center">
                 <h2>
-                    <a class="navbar-brand pt-3 mb-3" href="index.html">
+                    <a class="navbar-brand pt-3 mb-3" href="#">
                         <span class="fa fa-free-code-camp"></span> Ablify
                     </a>
                 </h2>
@@ -592,7 +592,7 @@
                         <hr>
                         <ul class="list-info-lavi">
                             <li>
-                                <a href="index.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                <a href="home.php"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     Home
                                 </a>
                             </li>
